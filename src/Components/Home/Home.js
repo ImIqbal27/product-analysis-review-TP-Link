@@ -1,9 +1,11 @@
 import React from 'react';
 import './Home.css';
-
 import tp from '../image/tplink.jpg';
+import useReviews from '../hooks/useReviews';
+import Review from '../Review-card/Review';
 
 const Home = () => {
+    const [reviews, setReviews] = useReviews();
     return (
         <div>
             <div className='product'>
@@ -19,9 +21,21 @@ const Home = () => {
 
                 </section>
             </div>
-            <div>
-                <h1>Customer Reviews(3)</h1>
+            <div >
+                <h2>Customer Reviews(3)</h2>
+                <section className='customer-review-home'>
+                    {
+                        reviews.map(review => <Review
+                            key={review.id} review={review}
+                        ></Review>).slice(0, 3)
+                    }
 
+                </section>
+
+            </div>
+            <div>
+
+                <button>  See All Reviews</button>
 
             </div>
 

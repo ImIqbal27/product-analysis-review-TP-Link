@@ -1,0 +1,14 @@
+.review-card {
+    border: 1px solid rgb(214, 223, 228);
+    height: 400px;
+    width: 300px;
+    margin: 60px;
+    border-radius: 15px;
+
+}
+
+.review-card img {
+    margin-top: 20px;
+    height: 150px;
+    border-radius: 50%;
+}

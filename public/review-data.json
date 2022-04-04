@@ -1,64 +1,72 @@
 [
-{"id":"10001",
-"name":"Robert Downey Jr.",
-"comment":"very good router..",
-"rating":"5star",
-"img":"  "
-},
-{"id":"10002",
-"name":"Chris Evans",
-"comment":"very good router..",
-"rating":"4.5star",
-"img":"  "
-},
-{"id":"10003",
-"name":"Mark Ruffalo",
-"comment":"very good router..",
-"rating":"5star",
-"img":"  "
-},
-{"id":"10004",
-"name":"Chris Hemsworth",
-"comment":"very good router..",
-"rating":"4star",
-"img":"  "
-},
-{"id":"10005",
-"name":"Scarlett Johansson",
-"comment":"very good router..",
-"rating":"4.8star",
-"img":"  "
-},
-{"id":"10006",
-"name":"Jeremy Renner",
-"comment":"very good router..",
-"rating":"4.9star",
-"img":"  "
-},
-{"id":"10007",
-"name":"Paul Rudd",
-"comment":"very good router..",
-"rating":"4star",
-"img":"  "
-},
-{"id":"10008",
-"name":"Benedict Cumberbatch",
-"comment":"very good router..",
-"rating":"5star",
-"img":"  "
-},
-{"id":"10009",
-"name":"Brie Larson",
-"comment":"very good router..",
-"rating":"4.5star",
-"img":"  "
-},
-{"id":"100010",
-"name":"Chris Pratt",
-"comment":"very good router..",
-"rating":"5star",
-"img":"  "
-}
-
-
+    {
+        "id": "10001",
+        "name": "Robert Downey Jr.",
+        "comment": "A very good router, My net speed has become much faster than before, Sadly I couldn't take the time of the offer so I had to pay the full price, The packaging was very good, anyway thanks TP-LINK .",
+        "rating": "5star",
+        "img": "https://www.pinkvilla.com/imageresize/robert_downey_jr_opens_up_on_playing_iron_man.jpg?width=752&format=webp&t=pvorg"
+    },
+    {
+        "id": "10002",
+        "name": "Chris Evans",
+        "comment": "Alhamdulillah got the right product within 4 days. Seller was responsive, packaging was also good. Thank you TP-Link and seller..",
+        "rating": "4.5star",
+        "img": "https://www.pinkvilla.com/imageresize/happy-birthday-chris-evans-5-reasons-why-the-avengers-endgame-star-is-the-ideal-husband-material.jpg?width=752&format=webp&t=pvorg"
+    },
+    {
+        "id": "10003",
+        "name": "Mark Ruffalo",
+        "comment": " Received in good condition . Looks intact. The packaging was satisfactory as well.It gets quite hot, but it is normal for a high-performance router like this. If it is a deal-breaker for you, this one may not be the ideal choice for you.",
+        "rating": "5star",
+        "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTgxMTUzNDE3ODM2NjM1NDk2/gettyimages-1204486984.jpg"
+    },
+    {
+        "id": "10004",
+        "name": "Chris Hemsworth",
+        "comment": "Got exactly what I ordered. No hassles. Product quality is also brand new. Delivered within 5 days. Authentic product by authentic shop. I really recommend buying from this shop.",
+        "rating": "4star",
+        "img": "https://www.pinkvilla.com/imageresize/chris_future_thor.jpg?width=752&format=webp&t=pvorg"
+    },
+    {
+        "id": "10005",
+        "name": "Scarlett Johansson",
+        "comment": "Original TP-Link Archer C6(US) V3.2! Seller was responsive! Got it within 4 days only for 3067tk with Bkash Cashback! Will update my review after using for sometime! Hope it will perform well.",
+        "rating": "4.8star",
+        "img": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=425,format=auto/sites/default/files/styles/768x768/public/d8/images/canvas/2021/08/03/9b70eedf-33c8-404e-ac5d-492f249e11cf_a2c8d5c2.jpg?itok=pLlLtXAS&v=1627983674"
+    },
+    {
+        "id": "10006",
+        "name": "Jeremy Renner",
+        "comment": "One word, brilliant! It's by far the best router you can afford. The best bang for buck as some might put it.The 'tether' app as well as the website does a great job at controlling the router the way would like it. 10/10 quality.",
+        "rating": "5star",
+        "img": "https://thumbs.dreamstime.com/b/jeremy-renner-jeremy-renner-los-angeles-premiere-tag-held-regency-village-theatre-westwood-usa-june-119539735.jpg"
+    },
+    {
+        "id": "10007",
+        "name": "Paul Rudd",
+        "comment": "My network is super smooth.....no data loss issues.....if you have a connection of fiber optic cables....you are good to go. check some reviews of the product you will get to know more ",
+        "rating": "4star",
+        "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSezOyUWvIN9mQ1_lTLWYKZDBSbEc_PlCSMxDoqOr3fIRxxzUxp"
+    },
+    {
+        "id": "10008",
+        "name": "Benedict Cumberbatch",
+        "comment": "Quality was as expected. Very good. But really disappointed with the packaging. The box was poorly packed and a bit damaged from outside. The product was delivered within 2 days. ",
+        "rating": "5star",
+        "img": "https://www.aceshowbiz.com/images/wennpic/benedict-cumberbatch-uk-premiere-star-wars-the-force-awakens-01.jpg"
+    },
+    {
+        "id": "10009",
+        "name": "Brie Larson",
+        "comment": "Amazing so far, getting great Gigabit speed as expected and the range is way better than the WR series routers. Definitely recommended ",
+        "rating": "4.5star",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjExODkxODU3NF5BMl5BanBnXkFtZTgwNTM0MTk3NjE@._V1_.jpg"
+    },
+    {
+        "id": "100010",
+        "name": "Chris Pratt",
+        "comment": "Excellent router finally. I changed 5-6 routers of range below three thousand . This is the best one I would say. Very good range. Solid internet performance. Delivery was very slow by the way.",
+        "rating": "5star",
+        "img": "https://cdn.britannica.com/48/216648-050-4A42C937/American-actor-Chris-Pratt-2020.jpg"
+    }
 ]
