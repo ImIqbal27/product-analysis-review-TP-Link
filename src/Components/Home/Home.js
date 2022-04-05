@@ -12,7 +12,7 @@ const Home = () => {
 
                 <section className='product-description'>
                     <h2>Your Next Router</h2>
-                    <h2>TP-link Router</h2>
+                    <h2 className='tp-link'>TP-Link Router</h2>
                     <p>TP-Link Archer AX20 met the 3 most important aspects of a good wireless router.The speed is excellent, the coverage is strong and the stability is great.At this price point, there's nothing that perform just as good as this Archer AX20.This will probably be best budget mid-range router that will recommend in 2022.</p>
 
                 </section>
