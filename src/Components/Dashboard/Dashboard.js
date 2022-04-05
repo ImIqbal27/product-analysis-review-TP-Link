@@ -8,7 +8,6 @@ import './Dashboard.css'  ;
 const Dashboard = () => {
     return (
         <div>
-            <h2>dashboard</h2>
             <div className='dashboard-chart'>
                 <MyChart> </MyChart>
                 <MyPieChart></MyPieChart>

@@ -42,7 +42,7 @@ const Barchart = () => {
     return (
         <div>
 
-            <BarChart width={730} height={250} data={data}>
+            <BarChart width={450} height={250} data={data}>
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis dataKey="name" />
                 <YAxis />

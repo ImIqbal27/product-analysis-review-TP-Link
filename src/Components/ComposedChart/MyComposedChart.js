@@ -50,7 +50,7 @@ const MyComposedChart = () => {
     return (
         <div>
 
-            <ComposedChart width={730} height={250} data={data}>
+            <ComposedChart width={450} height={250} data={data}>
                 <XAxis dataKey="name" />
                 <YAxis />
                 <Tooltip />
