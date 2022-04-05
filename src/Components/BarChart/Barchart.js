@@ -4,39 +4,39 @@ import { Bar, BarChart, CartesianGrid, Legend, Tooltip, XAxis, YAxis } from 'rec
 const Barchart = () => {
     const data = [
         {
-            "name": "Page A",
-            "uv": 4000,
-            "pv": 2400
+            "name": "year 2015",
+            "import": 4000,
+            "export": 2400
         },
         {
-            "name": "Page B",
-            "uv": 3000,
-            "pv": 1398
+            "name": "year 2016",
+            "import": 3000,
+            "export": 1398
         },
         {
-            "name": "Page C",
-            "uv": 2000,
-            "pv": 9800
+            "name": "year 2017",
+            "import": 2000,
+            "export": 9800
         },
         {
-            "name": "Page D",
-            "uv": 2780,
-            "pv": 3908
+            "name": "year 2018",
+            "import": 2780,
+            "export": 3908
         },
         {
-            "name": "Page E",
-            "uv": 1890,
-            "pv": 4800
+            "name": "year 2019",
+            "import": 1890,
+            "export": 4800
         },
         {
-            "name": "Page F",
-            "uv": 2390,
-            "pv": 3800
+            "name": "year 2020",
+            "import": 2390,
+            "export": 3800
         },
         {
-            "name": "Page G",
-            "uv": 3490,
-            "pv": 4300
+            "name": "year 2021",
+            "import": 3490,
+            "export": 4300
         }
     ]
     return (
@@ -48,8 +48,8 @@ const Barchart = () => {
                 <YAxis />
                 <Tooltip />
                 <Legend />
-                <Bar dataKey="pv" fill="#8884d8" />
-                <Bar dataKey="uv" fill="#82ca9d" />
+                <Bar dataKey="export" fill="#8884d8" />
+                <Bar dataKey="import" fill="#82ca9d" />
             </BarChart>
         </div>
     );

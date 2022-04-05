@@ -5,45 +5,45 @@ const MyComposedChart = () => {
     const data = [
         {
             "name": "Page A",
-            "uv": 4000,
-            "pv": 2400,
-            "amt": 2400
+            "import": 4000,
+            "export": 2400,
+            "loss": 2400
         },
         {
             "name": "Page B",
-            "uv": 3000,
-            "pv": 1398,
-            "amt": 2210
+            "import": 3000,
+            "export": 1398,
+            "loss": 2210
         },
         {
             "name": "Page C",
-            "uv": 2000,
-            "pv": 9800,
-            "amt": 2290
+            "import": 2000,
+            "export": 9800,
+            "loss": 2290
         },
         {
             "name": "Page D",
-            "uv": 2780,
-            "pv": 3908,
-            "amt": 2000
+            "import": 2780,
+            "export": 3908,
+            "loss": 2000
         },
         {
             "name": "Page E",
-            "uv": 1890,
-            "pv": 4800,
-            "amt": 2181
+            "import": 1890,
+            "export": 4800,
+            "loss": 2181
         },
         {
             "name": "Page F",
-            "uv": 2390,
-            "pv": 3800,
-            "amt": 2500
+            "import": 2390,
+            "export": 3800,
+            "loss": 2500
         },
         {
             "name": "Page G",
-            "uv": 3490,
-            "pv": 4300,
-            "amt": 2100
+            "import": 3490,
+            "export": 4300,
+            "loss": 2100
         }
     ]
 
@@ -56,9 +56,9 @@ const MyComposedChart = () => {
                 <Tooltip />
                 <Legend />
                 <CartesianGrid stroke="#f5f5f5" />
-                <Area type="monotone" dataKey="amt" fill="#8884d8" stroke="#8884d8" />
-                <Bar dataKey="pv" barSize={20} fill="#413ea0" />
-                <Line type="monotone" dataKey="uv" stroke="#ff7300" />
+                <Area type="monotone" dataKey="loss" fill="#8884d8" stroke="#8884d8" />
+                <Bar dataKey="export" barSize={20} fill="#413ea0" />
+                <Line type="monotone" dataKey="import" stroke="#ff7300" />
             </ComposedChart>
 
         </div>
