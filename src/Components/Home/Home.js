@@ -3,6 +3,7 @@ import './Home.css';
 import tp from '../image/tplink.jpg';
 import useReviews from '../hooks/useReviews';
 import Review from '../Review-card/Review';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
     const [reviews, setReviews] = useReviews();
@@ -35,8 +36,8 @@ const Home = () => {
             </div>
             <div>
 
-                <button>  See All Reviews</button>
-
+                <Link to='/reviews'>  <button>  See All Reviews</button>
+                </Link>
             </div>
 
         </div>
